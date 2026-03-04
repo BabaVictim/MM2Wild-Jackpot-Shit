@@ -15,7 +15,7 @@ Discord: fard1627
 ## Tampermonkey (browser extension)
 1. Search up "Tampermonkey" and itll take you to the browser individual extension-store which allows you to install tampermonkey.
 2. On tampermonkey => new userscript => replace **the whole** template which was initialized with the script.
-And the last step is to give Tampermonkey premission to run scripts
+Last step is to give Tampermonkey premission to run scripts
 3. Navigate to chrome://extensions (link)
 4. Turn on developer mode.
 5. Click "Details" at the tampermonkey extension => turn on "Allow User Scripts"
@@ -27,7 +27,7 @@ How to set up Tampermonkey: https://www.youtube.com/watch?v=ChIDDHkSRmM
 2. Navigate to chrome://extensions (link)
 3. Turn on developer mode.
 4. Click on "load unpacked" and select the folder you extracted.
-> There might be a folder within the folder you need to select, just select the deepest nested folder.
+> The folder you need to select might be within the extracted folder - not the folder itsself. Just select the deepest nested folder and youre good to go.
 
 How to install an extension: https://www.youtube.com/watch?v=yNFwFQrc27Q
 **1:38 - 2:27**
