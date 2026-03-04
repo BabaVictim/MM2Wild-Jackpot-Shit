@@ -22,7 +22,7 @@ And the last step is to give Tampermonkey premission to run scripts
 
 How to set up Tampermonkey: https://www.youtube.com/watch?v=ChIDDHkSRmM
 
-## Chrome extension
+## Chrome extension (works on most browsers)
 1. Extract the downloaded browser extension (zip) into a uncompressed folder (right click => "extract")
 2. Navigate to chrome://extensions (link)
 3. Turn on developer mode.
