@@ -31,3 +31,6 @@ How to set up Tampermonkey: https://www.youtube.com/watch?v=ChIDDHkSRmM
 
 How to install an extension: https://www.youtube.com/watch?v=yNFwFQrc27Q
 **1:38 - 2:27**
+
+## Mobile (Android)
+Same steps as the chrome extension, use kiwi browser as it supports the installation of extensions.
